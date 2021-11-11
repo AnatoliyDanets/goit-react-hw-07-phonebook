@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Rosie Simpson",
+      "number": "459-12-56",
+      "id": 4
+    },
+    {
+      "name": "Анатолий",
+      "number": "459-12-55",
+      "id": 14
+    },
+    {
+      "name": "sem",
+      "number": "+38 (032) 132-13-12",
+      "id": 15
+    },
+    {
+      "name": "Nastya",
+      "number": "459-12-55",
+      "id": 21
+    },
+    {
+      "name": "Dima",
+      "number": "459-12-55",
+      "id": 22
+    },
+    {
+      "name": "Alina",
+      "number": "459-12-55",
+      "id": 24
+    }
+  ]
+}
